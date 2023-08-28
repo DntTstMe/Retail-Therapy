@@ -1,5 +1,5 @@
 // import models
-const Product = require('../../../13/fantastic-umbrella/Develop/models/Product');
+const Product = require('./Product');
 const Category = require('./Category');
 const Tag = require('../../../13/fantastic-umbrella/Develop/models/Tag');
 const ProductTag = require('../../../13/fantastic-umbrella/Develop/models/ProductTag');

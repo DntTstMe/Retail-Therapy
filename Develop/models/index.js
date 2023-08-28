@@ -1,7 +1,7 @@
 // import models
 const Product = require('./Product');
 const Category = require('./Category');
-const Tag = require('../../../13/fantastic-umbrella/Develop/models/Tag');
+const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
 
 // Products belongsTo Category
